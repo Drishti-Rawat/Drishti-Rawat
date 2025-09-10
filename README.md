@@ -7,7 +7,7 @@ Currently diving deep into **Angular, Next.js, and MERN stack adventures** 🚀
 
 - 🌱 **I’m currently learning:** Angular, Next.js, PostgreSQL, and Supabase  
 - 🤝 **I’m looking to collaborate on:** Full-stack and frontend projects  
-- 📬 **How to reach me:** drishtirwt019 [at] gmail [dot] com  
+- 📬 **How to reach me:** **drishtirwt019@gmail.com**   
 - ⚡ **Fun fact:** I believe every bug has a personality — you just need patience to understand it 🐛✨  
 
 ---
