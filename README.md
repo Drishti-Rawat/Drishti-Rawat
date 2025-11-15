@@ -1,7 +1,7 @@
 # Hey! I'm Drishti 👋  
 
 A Full-Stack Developer who loves building interactive digital experiences where **code meets creativity**.  
-Currently diving deep into **Angular, Next.js, and MERN stack adventures** 🚀  
+Currently diving deep into **Angular, Next.js, and MERN stack ** 🚀  
 
 ---
 
